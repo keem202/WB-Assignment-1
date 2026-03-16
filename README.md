@@ -7,7 +7,7 @@ The webpage is built using **HTML, CSS, and JavaScript** and includes interactiv
 
 You can view the live webpage here:
 
-**https://keem202.github.io/WB-Assignment-1/**
+**https://keem202.github.io/WB-Assignments/**
 
 ## Project Structure
 
